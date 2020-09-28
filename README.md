@@ -6,7 +6,7 @@
 
 ## Description
 
-<!-- {This application is known as a portfolio, it gives more information about who I am , my background , my Education my hobbies , skills and among others. I'ts kind of an online curriculum vitae } -->
+{This application is known as a portfolio, it gives more information about who I am , my background , my Education my hobbies , skills and among others. I'ts kind of an online curriculum vitae }
 
 ## Setup/Installation Requirements
 
