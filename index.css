@@ -5,9 +5,28 @@
 }
 .ange{
     text-align: justify;
-    margin-left: 100px;
-
+    margin-right: 50px;
+    width: 400px;
+    border: 5px solid green;
+    padding: 10px;
+    margin: 80px;
+    justify-content: first baseline;
+   
+}
+.space{
+    width: 400px;
+    border: 5px solid green;
+    padding: 10px;
+    margin: 80px;
+}
+#projects{
+    width: 400px;
+    border: 5px solid green;
+    padding: 10px;
+    margin: 20px;
+}
+.smiling{
+    position:absolute; top:0; right:0;
 }
 
-}
 
