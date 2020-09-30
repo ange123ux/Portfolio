@@ -19,7 +19,8 @@
 ## Image
  <!-- ![ange](I can add any image) -->
   ## PROJECTS THAT I DESIGNED
-[cute little pets](https://ange123ux.github.io/cute-little-pets/)
+[Cute Little Pets](https://ange123ux.github.io/cute-little-pets/)   
+[My portfolio](https://ange123ux.github.io/Portfolio/.)
 
 <!-- [portfolio](put my link in) -->
 
